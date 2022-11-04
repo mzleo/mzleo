@@ -6,9 +6,11 @@ BIRTH   : 🎂December 27th, 2001
 BIO     : Software, Hardware, Deep Learning
 
 ## 🎓Career
-2017/04 → 2022/03     : TMCIT EEEC (東京都立産業技術高等専門学校　電気電子工学コース)
+TMCIT EEEC (東京都立産業技術高等専門学校　電気電子工学コース)
 <br>
-2022/04 →      : teamLab Inc. (チームラボ株式会社)
+↓
+<br>
+teamLab Inc. (チームラボ株式会社)
 
 ## 🧠Skill
 ### Lang
