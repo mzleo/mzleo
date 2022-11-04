@@ -1,5 +1,5 @@
 ## 🦖Pofile
-NAME    : 👨MATZMOTO Leona
+NAME    : 👻Leona MATZMOTO
 <br>
 BIRTH   : 🎂December 27th, 2001
 <br>
