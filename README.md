@@ -1,11 +1,3 @@
-## :octocat:Github
-### 2022
-
-
-https://user-images.githubusercontent.com/69725322/215089026-392399e5-de16-44c6-ae73-323914a00e1a.mov
-
-
-
 ## 🦡Pofile
 NAME    : 👻Leona MATSUMOTO
 <br>
