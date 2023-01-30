@@ -1,9 +1,9 @@
-## 🦡Pofile
-NAME    : 👻Leona MATSUMOTO
+## 🦖Pofile
+NAME    : 🦡Leona MATSUMOTO
 <br>
 BIRTH   : 🎂December 27th, 2001
 <br>
-BIO     : Software, Hardware, Deep Learning
+BIO     : 💻Software, Hardware, Deep Learning
 
 ## 🎓Career
 TMCIT EEEC (東京都立産業技術高等専門学校　電気電子工学コース)
