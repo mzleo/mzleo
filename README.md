@@ -11,6 +11,7 @@ BIO     : 💻Software, Hardware, Deep Learning
 [![](https://img.shields.io/badge/EN(SUB)-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mzleo_en)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.Facebook.com/mazleona)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_mz_leo)
+[![](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@_mz_leo)
 
 ## 🎓Career
 TMCIT EEEC (東京都立産業技術高等専門学校　電気電子工学コース)
