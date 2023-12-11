@@ -1,4 +1,4 @@
-![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+![image](https://github.com/mzleo/mzleo/assets/69725322/51e35cc2-1c41-4b04-b5b0-4aa89e61f572)
 
 ## 🦖Pofile
 NAME    : 🦡Leona MATSUMOTO
