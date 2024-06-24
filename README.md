@@ -37,6 +37,7 @@ teamLab Inc. (チームラボ株式会社)
 
 ### Test
 [![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io/)
+[![](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white)](https://vitest.dev/)
 [![](https://img.shields.io/badge/PlayWright-2EAD33?style=for-the-badge&logo=PlayWright&logoColor=white)](https://playwright.dev/)
 
 ### Database
@@ -51,6 +52,7 @@ teamLab Inc. (チームラボ株式会社)
 ### Other Tools
 [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
+[![](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=white)](https://docusaurus.io/)
 [![](https://img.shields.io/badge/Yolo-00FFFF?style=for-the-badge&logo=Yolo&logoColor=black)](https://pjreddie.com/darknet/yolo/)
 [![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)](https://wikipedia.org/wiki/LaTeX)
 [![](https://img.shields.io/badge/RedMine-B32024?style=for-the-badge&logo=RedMine&logoColor=white)](https://redmine.jp/)
