@@ -6,7 +6,7 @@ NAME    : 🦡 Leona MATSUMOTO
 <br>
 BIRTH   : 🎂 December 27th, 2001
 <br>
-BIO     : 💻 Web Engineer || 📱 App Engineer (Leaning now)
+BIO     : 💻 Web Engineer // 📱 App Engineer
 
 [![](https://img.shields.io/badge/𝕏　X-262E35?style=for-the-badge&logo=&logoColor=white)](https://x.com/mzleo_)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.Facebook.com/mazleona)
